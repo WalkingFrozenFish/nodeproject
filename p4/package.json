@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "jasmine-node": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js Tom 26"
+  }
+}
